@@ -1,0 +1,1 @@
+print('Devsought is a cool Python resource site')
